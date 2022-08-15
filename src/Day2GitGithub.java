@@ -14,7 +14,7 @@ public class Day2GitGithub {
                         git remote add origin adres
                         git push -u origin master
             Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
-            kullanırız.
+            kullanırız...
  */
 
 
