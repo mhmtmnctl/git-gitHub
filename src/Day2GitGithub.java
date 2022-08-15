@@ -18,6 +18,7 @@ public class Day2GitGithub {
  */
     public static void main(String[] args) {
         System.out.println("github dersi 1.kısım");
+        System.out.println("github dersi 2.kısım");
     }
 
 
