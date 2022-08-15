@@ -22,6 +22,7 @@ public class Day2GitGithub {
         //remote dan yani githubdan da değişiklik yapabiliyoruz
         System.out.println("github'dan yapılan değişiklik denemesi");
         //githubdaki metin editorunden yazıyorum...
+        //deneme 2
         
     }
 
