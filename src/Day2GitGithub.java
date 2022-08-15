@@ -19,6 +19,9 @@ public class Day2GitGithub {
     public static void main(String[] args) {
         System.out.println("github dersi 1.kısım");
         System.out.println("github dersi 2.kısım");
+        //remote dan yani githubdan da değişiklik yapabiliyoruz
+        System.out.println("github'dan yapılan değişiklik denemesi");
+        
     }
 
 
